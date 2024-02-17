@@ -19,7 +19,7 @@ git clone https://github.com/sudomask/Git-HOL-Assignment.git
 
 git config --global user.name "First Last"
 
-git config --global user.email username@gmail.com
+git config --global user.email username@example.com
 
 git branch -M main
 ```
