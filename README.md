@@ -30,11 +30,11 @@ git checkout -b feature/new-feature main
 touch feature.txt
 
 git add feature.txt
- 
-## Commit your changes
-
-git commit -m "This is a new feature for GIT-HOL-Assignment"
  ```
+## Commit your changes
+```
+git commit -m "This is a new feature for GIT-HOL-Assignment"
+```
 ## Push to the branch 
 ```
 git remote add origin https://github.com/yourgitrepo/Git-HOL-Assignment.git
@@ -45,7 +45,6 @@ git push origin feature/new-feature
 ```
 
 ## Create a new Pull Request
-
 
  
 
